@@ -14,10 +14,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
 
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Task Tracker',
       theme: ThemeData(
 
-        primarySwatch: createMaterialColor(Color(0xFF384358)),
+        primarySwatch: createMaterialColor(const Color(0xFF384358)),
         backgroundColor: const Color(0xFF384358),
       ),
       home:const HomeScreen(),
