@@ -49,3 +49,4 @@ cd task-tracker
 flutter pub get
 
 flutter run
+```
