@@ -43,3 +43,9 @@ Follow these instructions to set up the project locally.
 
 ```bash
 git clone https://github.com/your-username/task-tracker.git
+
+cd task-tracker
+
+flutter pub get
+
+flutter run
